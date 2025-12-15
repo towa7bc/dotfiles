@@ -1,5 +1,6 @@
 brew "htop"
 brew "neovim"
+brew "btop"
 cask "font-arial"
 cask "font-arial-black"
 cask "font-times-new-roman"
